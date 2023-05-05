@@ -4,7 +4,7 @@
     "organization": "U.S. Geological Survey",
     "description": "Visualizing temperature predictions in the DRB",
     "version": "main",
-    "status": "Development",
+    "status": "Production",
     "permissions": {
       "usageType": "openSource",
       "licenses": [
@@ -22,17 +22,18 @@
     "laborHours": -1,
     "tags": [
       "R",
-      "USGS"
+      "USGS",
+      "Vizlab"
     ],
     "languages": [
       "R"
     ],
     "contact": {
-      "name": "aaarcher-usgs",
-      "email": "FILL ME IN"
+      "name": "Althea Archer",
+      "email": "aaarcher@usgs.gov"
     },
     "date": {
-      "metadataLastUpdated": "2023-04-07"
+      "metadataLastUpdated": "2023-05-04"
     }
   },
   {
